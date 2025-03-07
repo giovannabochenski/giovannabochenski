@@ -3,7 +3,7 @@
 </h1>
 
 <p float="left">
-  <img src="ras.jpg" width="400px" />
+  <img src="f8344b76-eca8-47d9-ae0f-7f1e127ee557" width="400px" />
   <img src="ras3.jpg" height="300px" width="400px" />
 </p>
 
