@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="c200ee56-703a-4d83-8813-c091e6156567.jpeg" width="400px" />
-  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg" height="300px" width="400px" />
+  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg" height="400px" width="400px" />
 </p>
 
 <BR>
