@@ -46,7 +46,6 @@ Contatos
 <div>
   <a href="https://www.youtube.com/; target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&quot; target="_blank"></a>
  <a href="https://p5js.org/"><img align="center" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white&quot; target="_blank"></a>
-  <a href = "giovanna.nunis@escola.pr.gov.br.com"><img align="center" src="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Drm%26ogbl&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Drm%26ogbl&ifkv=ASSHykoZOZ49xL8hXUvGqnbdIplBNjr2cVkW67UnSh0-YIhzDuCWZo6cZXwqd8PZ75p6usNCrY5rsw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1428764549%3A1741388117707616&ddm=1; target="_blank"></a>
   <a href="https://br.linkedin.com/"_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
 </div>
 <br>
