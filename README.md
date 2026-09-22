@@ -1,40 +1,72 @@
+<!-- ============ BANNER ANIMADO ============ -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Giovanna💋!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Giovanna+💋!;" />
 </h1>
 
-<p float="left">
-  <img src="c200ee56-703a-4d83-8813-c091e6156567.jpeg" width="400px" />
-  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg" width="400px" />
+<!-- ============ FOTOS ============ -->
+<p align="center">
+  <img src="c200ee56-703a-4d83-8813-c091e6156567.jpeg" width="300px" style="border-radius: 12px; margin: 6px;" />
+  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg" width="300px" style="border-radius: 12px; margin: 6px;" />
 </p>
 
-<BR>
-- 🏋️ Gosto de academia
 <br>
-<BR>
-- 🇦🇺 intercâmbio
-<br>
-<BR>
-- 🇻🇦 católica
-<br>
-<BR>
-- 🌹 Be yourself 
-<br>
-<BR>
-- 🖥 Front-end
-<br>
-<BR>
-- 🎤 cantora 
-<br>
-<BR>
-- 📝 prêmio agrinho
-<br>
-<BR>
-- 💌 style.css
-<br>
-<BR>
-- 💻  index.html
+
+<!-- ============ SOBRE MIM ============ -->
+<h2 align="center">🌸 Sobre mim</h2>
 
 <div align="center">
+
+| | |
+|:---:|:---|
+| 🏋️ | Gosto de academia |
+| 🇦🇺 | Intercâmbio |
+| 🇻🇦 | Católica |
+| 🌹 | *Be yourself* |
+| 🖥️ | Front-end |
+| 🎤 | Cantora |
+| 📝 | Prêmio Agrinho |
+| 💌 | `style.css` |
+| 💻 | `index.html` |
+
+</div>
+
+<br>
+
+<!-- ============ TECNOLOGIAS ============ -->
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<div align="center">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="p5.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/p5js/p5js-original.svg">
+</div>
+
+<br>
+
+<!-- ============ CONTATOS ============ -->
+<h2 align="center">📫 Contatos</h2>
+
+<div align="center">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://p5js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js">
+  </a>
+  <a href="https://br.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<br>
+
+<!-- ============ RODAPÉ ============ -->
+<p align="center">
+  <i>✨ Obrigada pela visita! ✨</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer"/>
 
   <!-- Ícones das tecnologias -->
   <div style="display: inline_block"><br>
