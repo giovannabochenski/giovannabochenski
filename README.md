@@ -1,17 +1,20 @@
-<!-- ============ BANNER ANIMADO ============ -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Giovanna+💋!;" />
 </h1>
 
-<!-- ============ FOTOS ============ -->
 <p align="center">
-  <img src="c200ee56-703a-4d83-8813-c091e6156567.jpeg" width="300px" style="border-radius: 12px; margin: 6px;" />
-  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg" width="300px" style="border-radius: 12px; margin: 6px;" />
+  <img src="c200ee56-703a-4d83-8813-c091e6156567.jpeg"
+       width="280" height="280"
+       style="object-fit: cover; border-radius: 20px; margin: 10px;
+              box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
+  <img src="353B6E5D-3CD0-4D7B-A0F2-E62BCE938134.jpeg"
+       width="280" height="280"
+       style="object-fit: cover; border-radius: 20px; margin: 10px;
+              box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
 </p>
 
 <br>
 
-<!-- ============ SOBRE MIM ============ -->
 <h2 align="center">🌸 Sobre mim</h2>
 
 <div align="center">
@@ -32,7 +35,6 @@
 
 <br>
 
-<!-- ============ TECNOLOGIAS ============ -->
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <div align="center">
@@ -44,7 +46,6 @@
 
 <br>
 
-<!-- ============ CONTATOS ============ -->
 <h2 align="center">📫 Contatos</h2>
 
 <div align="center">
@@ -61,14 +62,12 @@
 
 <br>
 
-<!-- ============ RODAPÉ ============ -->
 <p align="center">
   <i>✨ Obrigada pela visita! ✨</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer"/>
 
-  <!-- Ícones das tecnologias -->
   <div style="display: inline_block"><br>
     <img align="center" alt="Gi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -78,14 +77,12 @@
 
   <br>
 
-  <!-- Texto animado -->
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+seja+bem-vindo(a)!;Obrigado+pela+atenção!;" />
   </h1>
 
   <br>
 
-  <!-- Contatos -->
   <h3>📫 Contatos</h3>
 
   <div>
