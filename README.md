@@ -34,24 +34,41 @@
 <BR>
 - 💻  index.html
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Gi Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
-<img align="center" alt="GI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"&gt;
-<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;
+<div align="center">
+
+  <!-- Ícones das tecnologias -->
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Gi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gi-p5js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/p5js/p5js-original.svg">
+  </div>
+
+  <br>
+
+  <!-- Texto animado -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+seja+bem-vindo(a)!;Obrigado+pela+atenção!;" />
+  </h1>
+
+  <br>
+
+  <!-- Contatos -->
+  <h3>📫 Contatos</h3>
+
+  <div>
+    <a href="https://www.youtube.com/" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://p5js.org/" target="_blank">
+      <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js">
+    </a>
+    <a href="https://br.linkedin.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+
 </div>
-<br>
-Contatos
-<br>
-<br>
-<div>
-  <a href="https://www.youtube.com/; target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&quot; target="_blank"></a>
- <a href="https://p5js.org/"><img align="center" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white&quot; target="_blank"></a>
-  <a href="https://br.linkedin.com/"_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
-</div>
-<br>
-<h1 align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
 
 ###
 
