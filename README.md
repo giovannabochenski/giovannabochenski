@@ -68,12 +68,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer"/>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Gi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gi-p5js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/p5js/p5js-original.svg">
-  </div>
 
   <br>
 
