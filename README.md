@@ -83,22 +83,6 @@
 
   <br>
 
-  <h3>📫 Contatos</h3>
-
-  <div>
-    <a href="https://www.youtube.com/" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://p5js.org/" target="_blank">
-      <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js">
-    </a>
-    <a href="https://br.linkedin.com/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
-
-</div>
-
 ###
 
 <picture align="center">
